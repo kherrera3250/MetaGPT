@@ -1,7 +1,9 @@
 default_stages: [ commit ]
 
 # Install
-# 1. pip install pre-commit
+# 1. <a href="https://marketplace.visualstudio.com/items?itemName=publishername.extensionname">
+  <img src="https://vsmarketplacebadges.dev/badge_title/publishername.extensionname.svg" alt="badge_title">
+</a>
 # 2. pre-commit install(the first time you download the repo, it will be cached for future use)
 repos:
   - repo: https://github.com/pycqa/isort
